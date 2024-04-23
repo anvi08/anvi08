@@ -1,7 +1,7 @@
 ### Hi there! I'm Anvi Jain 👋
 
 🔭 I’m currently pursuing Master's in Information Systems at Northeastern University.
-🌱 I’m a Data Engineer by profession.
+
 
 ### Tech Stack
 
