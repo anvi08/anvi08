@@ -1,7 +1,7 @@
 ### Hi there! I'm Anvi Jain 👋
 
 🔭 MS Information Systems(Northeastern University)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=anvi08)
 
 ### Tech Stack
 
