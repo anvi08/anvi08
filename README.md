@@ -1,7 +1,6 @@
 ### Hi there! I'm Anvi Jain 👋
 
 🔭 MS Information Systems(Northeastern University)
-![Visitor Count](https://komarev.com/ghpvc/?username=anvi08)
 
 ### Tech Stack
 
@@ -24,6 +23,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=anvi08)
 <!--
 **anvi08/anvi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
